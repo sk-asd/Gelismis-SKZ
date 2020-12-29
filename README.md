@@ -14,7 +14,7 @@ Süreli kz eklentisidir komutçular için kolaylık sağlar.
 
 • !zones yazın karşınıza bir menü gelecek ordan **Create Zones** e  tıklayın.
 
-• KZnin bitişine bir bölge çizin ve ismini **SureliKZ** koyun.
+• KZnin bitişine bir bölge çizin ve ismini **skz (skz kelimesi içeren herhangi bir şey örnek:skz31)** koyun.
 
 • Eklenti Hazır!
 
